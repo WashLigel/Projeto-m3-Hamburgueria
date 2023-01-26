@@ -1,0 +1,25 @@
+{
+  "name": "servidornotas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WashLigel/servidorNotas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WashLigel/servidorNotas/issues"
+  },
+  "homepage": "https://github.com/WashLigel/servidorNotas#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
