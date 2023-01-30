@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WashLigel/servidorNotas.git"
+    "url": "git+https://github.com/WashLigel/Projeto-m3-Hamburgueria"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WashLigel/servidorNotas/issues"
+    "url": "https://github.com/WashLigel/Projeto-m3-Hamburgueria/issues"
   },
-  "homepage": "https://github.com/WashLigel/servidorNotas#readme",
+  "homepage": "https://github.com/WashLigel/Projeto-m3-Hamburgueria#readme",
   "dependencies": {
     "json-server": "^0.17.1"
   }
